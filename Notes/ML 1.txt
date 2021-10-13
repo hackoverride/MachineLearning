@@ -1,0 +1,10 @@
+Knowing your data:
+  What questions am I trying to answer?
+      Do I think the data collected can answer that question?
+  What is the best way to phrase my question as a machine learning problem?
+  Have I collected enough data to represent the problem I want to solve?
+  What features of the data did I extract, and will these enable the right dredictions?
+  How will I measure success in my application?
+  How will the machine learning solution interact with other parts of my research or business product?
+
+  
